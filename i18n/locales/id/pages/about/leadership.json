@@ -1,0 +1,20 @@
+{
+    "leadershipPage": {
+        "title": "Pimpinan Fakultas",
+        "subtitle": "Pimpinan",
+        "department": {
+            "dean": "Dekan",
+            "vice_dean": {
+                "academic": "Wakil Dekan Bidang Akademik",
+                "general": "Wakil Dekan Bidang Umum dan Keuangan",
+                "student": "Wakil Dekan Bidang Kemahasiswaan dan Alumni"
+            },
+            "coord": "Koordinator Tata Usaha",
+            "vice_coord": {
+                "academic": "Subkoordinator Akademik, Kemahasiswaan, dan Alumni",
+                "general": "Subkoordinator Umum dan Barang Milik Negara",
+                "finance": "Subkoordinator Keuangan dan Kepegawaian"
+            }
+        }
+    }
+}

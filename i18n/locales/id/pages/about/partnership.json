@@ -1,0 +1,17 @@
+{
+    "partnershipPage": {
+        "title": "Kemitraan",
+        "table": {
+            "header": {
+                "no": "No",
+                "partners": "Mitra",
+                "activity": "Kegiatan",
+                "from": "Dari",
+                "category": "Kategori"
+            },
+            "searchBar": {
+                "placeholder": "Acara atau Kemitraan..."
+            }
+        }
+    }
+}

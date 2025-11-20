@@ -1,0 +1,54 @@
+{
+    "defaultLayout": {
+        "menu": {
+            "home": "Beranda",
+            "news": "Berita",
+            "about": "Tentang",
+            "profile": "Profil",
+            "accreditation": "Akreditasi",
+            "partnership": "Kemitraan",
+            "leaders": "Pimpinan",
+            "teaching_staff": "Tenaga Pengajar",
+            "admin_staff": "Tenaga Administrasi",
+            "mars_faculty": "Mars Fakultas",
+
+            "academic_program": "Program Akademik",
+
+            "research": "Penelitian",
+            "journal": "Jurnal",
+            "research_group": "Kelompok Riset",
+            "conference": "Konferensi",
+            "publication": "Publikasi",
+
+            "international_center": "Pusat Internasional",
+            "organization_structure": "Struktur Organisasi",
+            "roadmap": "Peta Jalan",
+            "existing_condition": "Kondisi Eksisting",
+            "international_report": "Laporan Internasional",
+
+            "student_affairs": "Kemahasiswaan",
+            "student_org": "Organisasi Mahasiswa",
+            "academic_calendar": "Kalender Akademik",
+            "student_achivement": "Prestasi Mahasiswa",
+            "scholarship": "Beasiswa",
+
+            "facility": "Fasilitas",
+            "disabilities": "Disabilitas",
+            "insurance": "Asuransi",
+            "medical": "Kesehatan",
+            "sport_leisure": "Olahraga & Rekreasi",
+
+            "gallery": "Galeri",
+            "download": "Unduhan"
+        },
+        "footer": {
+            "main": "Utama",
+            "about": "Tentang",
+            "academics": "Akademik",
+            "other": "Lainnya",
+            "vision": "FEB UNEJ, Kampus Pancasila untuk Dunia Ekonomi dan Bisnis"
+        },
+        "ppid": "PPID",
+        "scroll": "Gulir"
+    }
+}

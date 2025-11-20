@@ -1,0 +1,12 @@
+{
+    "contactPage": {
+        "title": "Kontak",
+        "subtitle": "Hubungi Kami",
+
+        "info": {
+            "location": "Lokasi",
+            "email": "Email",
+            "call": "Telepon"
+        }
+    }
+}

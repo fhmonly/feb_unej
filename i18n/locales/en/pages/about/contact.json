@@ -1,0 +1,12 @@
+{
+    "contactPage": {
+        "title": "Contact",
+        "subtitle": "Contact Us",
+
+        "info": {
+            "location": "Location",
+            "email": "Email",
+            "call": "Call"
+        }
+    }
+}

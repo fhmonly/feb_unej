@@ -1,0 +1,112 @@
+{
+    "navigation": {
+        "super": {
+            "tuk_lsp_ta": "TUK - LSP TA",
+            "event": "Acara",
+            "news": "Berita",
+            "gallery": "Galeri",
+            "videos": "Video",
+            "quality_insurance": "Penjaminan Mutu",
+            "ppid": "PPID",
+            "sister": "SISTER",
+            "simfeb": "SIMFEB"
+        },
+        "main": {
+            "profile": {
+                "title": "Profil",
+                "profile": "Profil",
+                "accreditation": "Akreditasi",
+                "partnership": "Kemitraan",
+                "leaders": "Pimpinan",
+                "teaching_staff": "Staf Pengajar",
+                "administrative_staff": "Staf Administrasi",
+                "mars_of_faculty": "Mars Fakultas"
+            },
+            "academic_programs": {
+                "title": "Program Akademik",
+                "diploma_programs": {
+                    "title": "Program Diploma",
+                    "company_management": "Manajemen Perusahaan",
+                    "financial_administration": "Administrasi Keuangan",
+                    "secretary": "Sekretaris",
+                    "accounting": "Akuntansi"
+                },
+                "bachelor_programs": {
+                    "title": "Program Sarjana",
+                    "accounting": "Akuntansi",
+                    "management": "Manajemen",
+                    "development_economics": "Ekonomi Pembangunan",
+                    "sharia_economics": "Ekonomi Syariah"
+                },
+                "master_programs": {
+                    "title": "Program Magister",
+                    "economics": "Ilmu Ekonomi",
+                    "management": "Manajemen",
+                    "accounting": "Akuntansi"
+                },
+                "doctoral_programs": {
+                    "title": "Program Doktor",
+                    "economics": "Ilmu Ekonomi",
+                    "management": "Manajemen"
+                },
+                "admission": {
+                    "title": "Penerimaan",
+                    "inter": {
+                        "title": "Internasional",
+                        "inter_office": "Kantor Internasional"
+                    },
+                    "national": {
+                        "title": "Nasional",
+                        "national_selection": "Seleksi Nasional Masuk Perguruan Tinggi",
+                        "joint_selection": "Seleksi Bersama Masuk Perguruan Tinggi",
+                        "independent_selection": "Seleksi Mandiri Masuk"
+                    },
+                    "bilingual_programs": {
+                        "title": "Kelas Bilingual",
+                        "recruitment": "Rekrutmen",
+                        "course_offered": "Mata Kuliah Ditawarkan",
+                        "activities": "Kegiatan"
+                    }
+                }
+            },
+            "research": {
+                "title": "Penelitian",
+                "journals": "Jurnal",
+                "research_groups": "Kelompok Riset",
+                "conferences": "Konferensi",
+                "publications": "Publikasi"
+            },
+            "community_service": {
+                "title": "Pengabdian Masyarakat",
+                "websites": "Situs Web",
+                "publications": "Publikasi",
+                "activities": "Kegiatan",
+                "journals": "Jurnal"
+            },
+            "inter_center": {
+                "title": "Pusat Internasional",
+                "organization_structure": "Struktur Organisasi",
+                "roadmap": "Peta Jalan",
+                "existing_condition": "Kondisi Eksisting",
+                "inter_report": "Laporan Internasional"
+            },
+            "student_affairs": {
+                "title": "Kemahasiswaan",
+                "organizations": "Organisasi",
+                "achievements": "Prestasi",
+                "calendar": "Kalender Akademik",
+                "scholarships": "Beasiswa"
+            },
+            "facility": {
+                "title": "Fasilitas",
+                "report": "Laporan Fasilitas",
+                "disabilities": "Disabilitas",
+                "insurance": "Asuransi",
+                "medical": "Fasilitas Kesehatan",
+                "sport": "Fasilitas Olahraga dan Rekreasi",
+                "support": "Sistem Pendukung"
+            },
+            "iceba": "ICEBA ST 2025"
+        }
+    }
+}

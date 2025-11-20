@@ -1,0 +1,17 @@
+{
+    "partnershipPage": {
+        "title": "Partnership",
+        "table": {
+            "header": {
+                "no": "No",
+                "partners": "Partners",
+                "activity": "Activity",
+                "from": "From",
+                "category": "Category"
+            },
+            "searchBar": {
+                "placeholder": "Event or Partnership..."
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "leadershipPage": {
+        "title": "Faculty Leadership",
+        "subtitle": "Leaders",
+        "department": {
+            "dean": "Dean",
+            "vice_dean": {
+                "academic": "Vice Dean of Academic Affairs",
+                "general": "Vice Dean for General Affairs and Finance",
+                "student": "Vice Dean of Student Affairs and Alumni"
+            },
+            "coord": "Coordinator of Administrative Office",
+            "vice_coord": {
+                "academic": "Vice Coordinator for Academic, Student and Alumni Affairs",
+                "general": "Vice Coordinator for General Affairs and State Property",
+                "finance": "Vice Coordinator of Finance and Personnel"
+            }
+        }
+    }
+}

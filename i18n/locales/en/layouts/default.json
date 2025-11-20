@@ -1,0 +1,54 @@
+{
+    "defaultLayout": {
+        "menu": {
+            "home": "Home",
+            "news": "News",
+            "about": "About",
+            "profile": "Profile",
+            "accreditation": "Accreditation",
+            "partnership": "Partnership",
+            "leaders": "Leaders",
+            "teaching_staff": "Teaching Staff",
+            "admin_staff": "Admin Staff",
+            "mars_faculty": "Mars Faculty",
+
+            "academic_program": "Academic Program",
+
+            "research": "Research",
+            "journal": "Journal",
+            "research_group": "Research Group",
+            "conference": "Conference",
+            "publication": "Publication",
+
+            "international_center": "International Center",
+            "organization_structure": "Organization Structure",
+            "roadmap": "Roadmap",
+            "existing_condition": "Existing Condition",
+            "international_report": "International Report",
+
+            "student_affairs": "Student Affairs",
+            "student_org": "Student Organization",
+            "academic_calendar": "Academic Calendar",
+            "student_achivement": "Student Achievement",
+            "scholarship": "Scholarship",
+
+            "facility": "Facility",
+            "disabilities": "Disabilities",
+            "insurance": "Insurance",
+            "medical": "Medical",
+            "sport_leisure": "Sport & Leisure",
+
+            "gallery": "Gallery",
+            "download": "Download"
+        },
+        "footer": {
+            "main": "Main",
+            "about": "About",
+            "academics": "Academics",
+            "other": "Other",
+            "vision": "FEB UNEJ, The Campus of Pancasila For the World Economy and Business"
+        },
+        "ppid": "PPID",
+        "scroll": "Scroll"
+    }
+}

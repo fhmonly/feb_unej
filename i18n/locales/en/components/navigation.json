@@ -1,0 +1,112 @@
+{
+    "navigation": {
+        "super": {
+            "tuk_lsp_ta": "TUK - LSP TA",
+            "event": "Events",
+            "news": "News",
+            "gallery": "Gallery",
+            "videos": "Videos",
+            "quality_insurance": "Quality Insurance",
+            "ppid": "PPID",
+            "sister": "SISTER",
+            "simfeb": "SIMFEB"
+        },
+        "main": {
+            "profile": {
+                "title": "Profile",
+                "profile": "Profile",
+                "accreditation": "Accreditation",
+                "partnership": "Partnership",
+                "leaders": "Leaders",
+                "teaching_staff": "Teaching Staff",
+                "administrative_staff": "Administrative Staff",
+                "mars_of_faculty": "Mars of Faculty"
+            },
+            "academic_programs": {
+                "title": "Academic Programs",
+                "diploma_programs": {
+                    "title": "Diploma Programs",
+                    "company_management": "Company Management",
+                    "financial_administration": "Financial Administration",
+                    "secretary": "Secretary",
+                    "accounting": "Accounting"
+                },
+                "bachelor_programs": {
+                    "title": "Bachelor Programs",
+                    "accounting": "Accounting",
+                    "management": "Management",
+                    "development_economics": "Development Economics",
+                    "sharia_economics": "Sharia Economics"
+                },
+                "master_programs": {
+                    "title": "Master Programs",
+                    "economics": "Economics",
+                    "management": "Management",
+                    "accounting": "Accounting"
+                },
+                "doctoral_programs": {
+                    "title": "Doctoral Programs",
+                    "economics": "Economics",
+                    "management": "Management"
+                },
+                "admission": {
+                    "title": "Admission",
+                    "inter": {
+                        "title": "International",
+                        "inter_office": "International Office"
+                    },
+                    "national": {
+                        "title": "National",
+                        "national_selection": "National Selection University Entrance Test",
+                        "joint_selection": "Joint Selection University Entrance Test",
+                        "independent_selection": "Independent Entrance Selection"
+                    },
+                    "bilingual_programs": {
+                        "title": "Bilingual Class",
+                        "recruitment": "Recruitment",
+                        "course_offered": "Course Offered",
+                        "activities": "Activities"
+                    }
+                }
+            },
+            "research": {
+                "title": "Research",
+                "journals": "Journals",
+                "research_groups": "Research Groups",
+                "conferences": "Conferences",
+                "publications": "Publications"
+            },
+            "community_service": {
+                "title": "Community Service",
+                "websites": "Websites",
+                "publications": "Publications",
+                "activities": "Activities",
+                "journals": "Journals"
+            },
+            "inter_center": {
+                "title": "International Center",
+                "organization_structure": "Organization Structure",
+                "roadmap": "Roadmap",
+                "existing_condition": "Existing Condition",
+                "inter_report": "International Report"
+            },
+            "student_affairs": {
+                "title": "Student Affairs",
+                "organizations": "Organizations",
+                "achievements": "Achievements",
+                "calendar": "Academic Calendar",
+                "scholarships": "Scholarships"
+            },
+            "facility": {
+                "title": "Facility",
+                "report": "Facility Report",
+                "disabilities": "Disabilities",
+                "insurance": "Insurance",
+                "medical": "Medical Facilities",
+                "sport": "Sport and Leisure Facilities",
+                "support": "Supporting Systems"
+            },
+            "iceba": "ICEBA ST 2025"
+        }
+    }
+}

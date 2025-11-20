@@ -1,0 +1,77 @@
+{
+    "homePage": {
+        "welcome": "Welcome to",
+        "faculty_name": "Faculty of Economics and Business University of Jember",
+        "description": "The Campus of Pancasila",
+        "sub_description": "For the World Economy and Business",
+        "news": {
+            "news": "News",
+            "all_news": "All News",
+            "inter_news": "International News",
+            "feb_unej_news": "FEB UNEJ News",
+            "student_achievement_news": "Student Achievement News"
+        },
+        "accreditation": {
+            "title": "FEB UNEJ Excellent",
+            "content": "Proud to be part of the academic community of the Faculty of Economics and Business, University of Jember, which always seeks to spread benefits to many people, especially in the Tridharma of Higher Education, namely education, research and community service in the economic and business fields."
+        },
+        "prodi": {
+            "title": "Prodi",
+            "subtitle": "Study Programs",
+            "study_programs": {
+                "title": "Study Programs",
+                "diploma": "Diploma Programs",
+                "bachelor": "Bachelor Programs",
+                "master": "Master Programs",
+                "doctoral": "Doctoral Programs"
+            }
+        },
+        "features": {
+            "title": "Features",
+            "simfeb": {
+                "title": "SIMFEB",
+                "description": "Faculty of Economics and Business internal integrated information service system"
+            },
+            "sister": {
+                "title": "SISTER",
+                "description": "University of Jember integrated information service system"
+            },
+            "uc3": {
+                "title": "UC3",
+                "description": "Complaint service system for academic community complaints at the University of Jember"
+            },
+            "elibrary": {
+                "title": "E-Library",
+                "description": "University of Jember electronic library service system"
+            }
+        },
+        "info_graphics": {
+            "title": "Infographics of the Faculty of Economics and Business",
+            "inter_coop": "International Cooperation",
+            "national_coop": "National Cooperation",
+            "inbound": "Inbound MBKM",
+            "outbound": "Outbound MBKM",
+            "educational_staff": "Educational Staff",
+            "professors": "Professors",
+            "lecturers": "Lecturers",
+            "active_students": "Active Students"
+        },
+        "preview": {
+            "title": "Preview",
+            "subtitle": "FEB Highlight Gallery",
+            "category": {
+                "all": "All",
+                "facility": "Facility",
+                "achievement": "Achievement",
+                "cooperation": "Cooperation",
+                "other": "Other"
+            }
+        },
+        "registration": {
+            "title": "New Student Registration",
+            "description": "Want to study at the Faculty of Economics and Business UNEJ?",
+            "description2": "Get to know us and follow the registration to become part of the Faculty of Economics and Business, University of Jember.",
+            "button_text": "Registration Information"
+        }
+    }
+}
